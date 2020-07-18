@@ -77,6 +77,7 @@ A curated list of awesome mathematics resources.
 
 ## Tools
 
+* [Seeing-Theory](https://seeing-theory.brown.edu/) - Best visual explanations for Statistics
 * [Symbolab](https://www.symbolab.com/)
 * [Desmos](https://www.desmos.com/calculator)
 * [Math Words](http://www.mathwords.com/)
